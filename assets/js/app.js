@@ -1,0 +1,1 @@
+var $map=$(".has-veil");$map.length&&$map.click(function(){$(this).removeClass("has-veil")}).mouseleave(function(){$(this).addClass("has-veil")});
